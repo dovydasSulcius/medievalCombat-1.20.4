@@ -19,6 +19,7 @@ public class ModItemGroups {
                         entries.add(ModItems.STEEL_INGOT);
                         entries.add(ModBlocks.STEEL_BLOCK);
                         entries.add(ModItems.GOLDEN_SALAD);
+                        entries.add(ModItems.KINGS_SWORD);
                     }).build());
     public static void registerItemGroups() {
         MedievalCombat.LOGGER.info("Registering Item Groups for " + MedievalCombat.MOD_ID);

@@ -12,6 +12,7 @@ import net.minecraft.util.Identifier;
 
 public class ModItems {
     public static final Item STEEL_INGOT = registerItem("steel_ingot", new Item(new FabricItemSettings()));
+    public static final Item KINGS_SWORD = registerItem("kings_sword", new Item(new FabricItemSettings().maxCount(1)));
     public static final Item GOLDEN_SALAD = registerItem("golden_salad", new Item(new FabricItemSettings().food(ModFoodComponents.GOLDEN_SALAD)));
 
 
