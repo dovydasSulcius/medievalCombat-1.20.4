@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    {
+      "item": "minecraft:golden_apple"
+    },
+    {
+      "item": "minecraft:golden_carrot"
+    },
+    {
+      "item": "minecraft:glistering_melon"
+    }
+  ],
+  "result": {
+    "item": "medievalcombat:steel_ingot",
+    "count": 9
+  }
+}
